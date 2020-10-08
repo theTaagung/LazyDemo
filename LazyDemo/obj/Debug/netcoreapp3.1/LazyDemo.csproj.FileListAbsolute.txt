@@ -1,0 +1,13 @@
+D:\HandOn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.exe
+D:\HandOn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.deps.json
+D:\HandOn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.runtimeconfig.json
+D:\HandOn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.runtimeconfig.dev.json
+D:\HandOn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.dll
+D:\HandOn\LazyDemo\bin\Debug\netcoreapp3.1\LazyDemo.pdb
+D:\HandOn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.csprojAssemblyReference.cache
+D:\HandOn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.AssemblyInfoInputs.cache
+D:\HandOn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.AssemblyInfo.cs
+D:\HandOn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.csproj.CoreCompileInputs.cache
+D:\HandOn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.dll
+D:\HandOn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.pdb
+D:\HandOn\LazyDemo\obj\Debug\netcoreapp3.1\LazyDemo.genruntimeconfig.cache
